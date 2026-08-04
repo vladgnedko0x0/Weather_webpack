@@ -21,7 +21,7 @@
 
 ## 📋 Table of Contents
 
-- [Live Demo](#-live-demo)
+- [Live Demo](https://vladgnedko0x0.github.io/Weather_webpack/)
 - [Features](#-features)
 - [How It Works](#-how-it-works)
 - [Project Structure](#-project-structure)
